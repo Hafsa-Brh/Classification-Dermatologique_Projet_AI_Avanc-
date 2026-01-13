@@ -1,0 +1,4 @@
+[core]
+    remote = isic
+['remote "isic"']
+    url = gdrive://1IloRDRMk1DTUwwR2T1RG-ZkDtiolvqTW
