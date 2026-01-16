@@ -1,4 +1,4 @@
-# IA Explicable Multi-Modal pour la Classification Dermatologiq
+# IA Explicable Multi-Modal pour la Classification Dermatologique
 
 ## Aperçu du Projet
 Ce projet propose une solution d'intelligence artificielle explicable et multi-modale pour la classification automatisée de huit types de lésions cutanées à partir du dataset ISIC 2019. Face aux défis posés par le fort déséquilibre des classes et la complexité visuelle des lésions, une architecture hybride a été développée, combinant un réseau de neurones convolutif (CNN) basé sur DenseNet121 avec des données cliniques (âge, sexe, localisation).
